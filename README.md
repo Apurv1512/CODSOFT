@@ -32,4 +32,23 @@ A calculator that supports:
 
 ---
 
+
+### ✅ Task 3 — Password Generator
+
+A Python-based secure password generator that allows users to create strong and customizable passwords.  
+
+**Features:**
+- Generate random secure passwords  
+- Option to include:
+  - Uppercase Letters
+  - Lowercase Letters
+  - Numbers
+  - Special Characters
+- User-defined password length  
+- Strong and secure password output  
+
+📂 **Folder:** Task3_PasswordGenerator
+
+---
+
 More tasks coming soon 😊
