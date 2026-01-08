@@ -79,4 +79,51 @@ The player competes against the computer with smooth gameplay, score tracking, a
 
 ---
 
-More tasks coming soon 😊
+
+## ✅ Task 5 — Contact Book Application
+
+A command-line based Contact Book application developed using Python to manage contact information efficiently.
+
+Features:
+- Add new contacts (Name, Phone Number, Email, Address)
+- View all saved contacts
+- Search contacts by name or phone number
+- Update existing contact details (including phone number)
+- Delete contacts with confirmation
+- Phone number validation (10-digit)
+- Clean and user-friendly CLI with separation lines
+
+📁 Folder: Task5_ContactBook
+
+---
+
+## 🚀 Internship Highlights
+
+- Completed all assigned Python internship tasks successfully
+- Built real-world Python applications using CLI and GUI
+- Improved problem-solving and logical thinking skills
+- Followed clean coding and modular programming practices
+- Created professional documentation for each task
+- Maintained a well-structured and organized GitHub repository
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- Command Line Interface (CLI)
+- Tkinter (GUI-based application)
+- Git & GitHub
+
+---
+
+## 🎯 Internship Completion Note
+
+This repository marks the successful completion of my **CodSoft Python Programming Internship**.  
+Each task helped me strengthen my Python fundamentals, logical reasoning, and project development skills.
+
+I am grateful to **CodSoft** for providing this hands-on learning opportunity and helping me grow as a Python developer.
+
+Thank you for exploring this repository 😊
+
+
